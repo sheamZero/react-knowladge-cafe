@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Programming",
+      "cover_img": "https://i.ibb.co/3cd8fTw/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/ZhLGfky/ppp.jpg",
+      "author_name": "John Doe",
+      "reading_time": "10",
+      "hashtag": "#programming",
+      "posted_date": "2024-02-24"
+    },
+    {
+      "id": 2,
+      "title": "Exploring Nature's Wonders",
+      "cover_img": "https://i.ibb.co/3cd8fTw/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/ZhLGfky/ppp.jpg",
+      "author_name": "Jane Smith",
+      "reading_time": "15",
+      "hashtag": "#nature",
+      "posted_date": "2024-02-23"
+    },
+    {
+      "id": 3,
+      "title": "Cooking Masterclass: Italian Cuisine",
+      "cover_img": "https://i.ibb.co/3cd8fTw/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/ZhLGfky/ppp.jpg",
+      "author_name": "Chef Antonio",
+      "reading_time": "20",
+      "hashtag": "#cooking",
+      "posted_date": "2024-02-22"
+    },
+    {
+      "id": 4,
+      "title": "Financial Planning for Beginners",
+      "cover_img": "https://i.ibb.co/3cd8fTw/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "author_img": "https://i.ibb.co/ZhLGfky/ppp.jpg",
+      "author_name": "Emily Johnson",
+      "reading_time": "12",
+      "hashtag": "#finance",
+      "posted_date": "2024-02-21"
+    }
+  ]
+  
